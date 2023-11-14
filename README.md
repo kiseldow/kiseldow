@@ -1,6 +1,6 @@
 # Ciao, sono Alessio Pedano! 👋
 
-Sono laureato in Ing. Informatica e delle Telecomunicazioni con una grande passione per il mondo Tech.
+Laureato in Ing. Informatica e delle Telecomunicazioni con una grande passione per il mondo Tech.
 
 ## Lingue e Framework
 
@@ -18,3 +18,7 @@ Sono laureato in Ing. Informatica e delle Telecomunicazioni con una grande passi
 - Assembly
 - C
 - Python
+- Angular
+- Typescript
+- Jsx
+- RxJs
